@@ -1,0 +1,7 @@
+{
+  "name": "inspirock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
